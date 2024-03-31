@@ -4,7 +4,7 @@
 ## 2. Objective
 - The primary objective of this project is to develop a robust classification model capable of accurately distinguishing between lung cancer and non-cancerous lung conditions based on medical imaging data. Specifically, we aim to achieve a classification accuracy of 100% to ensure reliable and trustworthy predictions for clinical use.
 ## 3. Project implementation
-### 3.1. Read Data From Csv File
+### 3.1. Read data from csv file
 ### 3.2. Visualizing the Data
 
 - Displays the results of patients with and without cancer
