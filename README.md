@@ -13,6 +13,7 @@
 
 - Display data distribution in csv file
 
+
 ![download](https://github.com/FPT-ThaiTuan/Lung-Cancer-Classification-using-Support-Vector-Machine/assets/105273233/35055a75-4494-4774-9c85-a56556a1638f)
 
 ### 3.3. Data for Training and Testing
@@ -34,10 +35,10 @@
   - Test accuracy result: 1.0
 
 
-**Hope this article can help you.**
+## **Hope this article can help you.**
 
-**If you have any questions please contact me for help!**
+## **If you have any questions please contact me for help!**
 
-**Gmail: tuanddt.ai.work@gmail.com**
+## **Gmail: tuanddt.ai.work@gmail.com**
 
-***Thanks everyone!***
+## ***Thanks everyone!***
