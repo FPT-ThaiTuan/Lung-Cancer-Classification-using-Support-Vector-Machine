@@ -35,10 +35,10 @@
   - Test accuracy result: 1.0
 
 
-## **Hope this article can help you.**
+### **Hope this article can help you.**
 
-## **If you have any questions please contact me for help!**
+### **If you have any questions please contact me for help!**
 
-## **Gmail: tuanddt.ai.work@gmail.com**
+### **Gmail: tuanddt.ai.work@gmail.com**
 
-## ***Thanks everyone!***
+### ***Thanks everyone!***
